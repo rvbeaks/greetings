@@ -115,8 +115,7 @@ export default function Home() {
                       goes. I also excluded book-length poems, because they’re
                       really a different form. Finally, despite the headline,
                       I’m sure there are many, many iconic poems out there that
-                      I’ve missed—so feel free to extend this list in the
-                      comments. But for now, happy reading (and re-reading):
+                      I’ve missed—so feel free to extend this list in the HAPPY BIRTHDAY SAYO JESSIE MAHAL NA MAHAL KITA
                     </p>
 
                     <p> - VINCENT</p>
