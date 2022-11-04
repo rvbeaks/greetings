@@ -112,7 +112,7 @@ export default function Home() {
                         lahat ng iyan. Susuportahan kita, Tulad ng pag-suporta mo saakin. Lagi din natin
                         tandaan kung ano yung goal natin sa buhay, sabay lang tayo sa agos ng tadhana.
                         Maraming salamat sa lahat, Gusto kita at the same time, Mahal kita sobra. Enjoy 
-                        your day Jessie! Masaya akong maging masaya ka. I love you, boss mahal.🤟
+                        your day Jessie! Masaya akong maging masaya ka. I love you, boss mahal. 🤟💛
                     </center></justify></p>
                       
                     <div> 
