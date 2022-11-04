@@ -94,7 +94,7 @@ export default function Home() {
                     animate={{ opacity: 1, x: 0 }}
                     transition={{ duration: 1.2 }}
                   >
-                    <p>Happy Happy Birthday sa taong pinaka sumusuporta saakin,
+                    <p> Happy Happy Birthday sa taong pinaka sumusuporta saakin,
                         Oo, it's your day at ikaw yun Jessie! HAHAHAHA
                         I hope na hindi ka malungkot habang binabasa mo ito, 
                         I hope na wala kang bagabag sa oras na ito.
