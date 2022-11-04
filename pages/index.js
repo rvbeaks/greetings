@@ -109,7 +109,7 @@ export default function Home() {
                     </p>
                       
                     <div> 
-                        <pre class="tab"> - VINCENT </pre>
+                        <pre class="tab">                                   </pre>
                     <p> - VINCENT</p>
                     </div>
                   </motion.p>
