@@ -95,7 +95,17 @@ export default function Home() {
                     transition={{ duration: 1.2 }}
                   >
                     <p>
-                      Hello, it’s your day jessie! I hope na okay ka lang habang binabasa mo ito, I hope na hindi ka din malungkot kasi araw mo ngayon.  Wish ko para sayo na soon magiging maayos din ang lahat, nagpapasalamat din ako kasi nakilala kita, napaka supportive mo sa’akin sa lahat ng bagay na meron ako, kaya susuportahan din kita  sa lahat, huwag kang susuko ha? Lagi mong tandaan na mayroong sumusuporta sa’yo sa mga gusto mo sa buhay, lagi mong tandaan na hindi ka nag-iisa. Marami mang problema na dumarating, nandito ako lagi para pagkwentuhan mo, huwag mong sosolohin yang sama ng loob mo, narito ako lagi handang makinig sa mga rant mo sa buhay hehe. Sorry, wala akong gift sa’yo kaya ito na lang ginawa ko HAHAHAHA. Ito rin pala yung secret ko sayo lately. Enjoy your day jessie! I nandito lang ako lagi anytime para sayo. Happy happy birthday jessie! I love you so muchhh!  
+                      Hello, it’s your day jessie! I hope na okay ka lang habang binabasa mo ito, 
+                      I hope na hindi ka din malungkot kasi araw mo ngayon.  Wish ko para sayo na 
+                      soon magiging maayos din ang lahat, nagpapasalamat din ako kasi nakilala kita,
+                      napaka supportive mo sa’akin sa lahat ng bagay na meron ako, kaya susuportahan 
+                      din kita  sa lahat, huwag kang susuko ha? Lagi mong tandaan na mayroong sumusuporta 
+                      sa’yo sa mga gusto mo sa buhay, lagi mong tandaan na hindi ka nag-iisa. Marami 
+                      mang problema na dumarating, nandito ako lagi para pagkwentuhan mo, huwag mong 
+                      sosolohin yang sama ng loob mo, narito ako lagi handang makinig sa mga rant mo sa 
+                      buhay hehe. Sorry, wala akong gift sa’yo kaya ito na lang ginawa ko HAHAHAHA. 
+                      Ito rin pala yung secret ko sayo lately. Enjoy your day jessie! 
+                      I nandito lang ako lagi anytime para sayo. Happy happy birthday jessie! I love you so muchhh!  
                     </p>
                       
                     <div> 
