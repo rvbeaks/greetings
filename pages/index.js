@@ -95,24 +95,24 @@ export default function Home() {
                     transition={{ duration: 1.2 }}
                   >
                     <p><center><justify>
-Happy Happy Birthday sa taong pinaka sumusuporta saakin,
-Oo, it's your day at ikaw yun Jessie! HAHAHAHA
-I hope na hindi ka malungkot habang binabasa mo ito, 
-I hope na wala kang bagabag sa oras na ito.
-Una sa lahat Jessie, nagpapasalamat ako sa supportang binibigay
-mo sa'akin sa lahat ng oras na need ko ng kausap, nariyan ka palagi.
-Masama man takbo ng tadhana saatin, lagi mong tandaan na palaging may
-isang sumusuporta sayo sa lahat ng bagay na mayroon ka sa buhay mo.
-huwag kang mahihiya na magopen sa'akin, kahit gaano pa kagulo kwento mo
-handa akong unawain lahat ng yun para  sa'iyo. Tandaan mo lagi na narito ako 
-para pagkwentuhan mo, may balikat kang masasandalan sa lahat ng oras na 
-naisin mo. Hindi kita iiwanan, magkasama tayong lalaban sa mundo, tulad ng
-pangako ko sa'iyo, pangako ko na hindi ko nais mapako. Hiling ko sa kaarawan mo,
-na balang araw aayon sayo ang mundo, kaunting tiis lang yan malalampasan mo din 
-lahat ng iyan. Susuportahan kita, Tulad ng pag-suporta mo saakin. Lagi din natin
-tandaan kung ano yung goal natin sa buhay, sabay lang tayo sa agos ng tadhana.
-Maraming salamat sa lahat, Gusto kita at the same time, Mahal kita sobra. Enjoy 
-your day Jessie! Masaya akong maging masaya ka. I love you, boss mahal.🤟
+                        Happy Happy Birthday sa taong pinaka sumusuporta saakin,
+                        Oo, it's your day at ikaw yun Jessie! HAHAHAHA
+                        I hope na hindi ka malungkot habang binabasa mo ito, 
+                        I hope na wala kang bagabag sa oras na ito.
+                        Una sa lahat Jessie, nagpapasalamat ako sa supportang binibigay
+                        mo sa'akin sa lahat ng oras na need ko ng kausap, nariyan ka palagi.
+                        Masama man takbo ng tadhana saatin, lagi mong tandaan na palaging may
+                        isang sumusuporta sayo sa lahat ng bagay na mayroon ka sa buhay mo.
+                        huwag kang mahihiya na magopen sa'akin, kahit gaano pa kagulo kwento mo
+                        handa akong unawain lahat ng yun para  sa'iyo. Tandaan mo lagi na narito ako 
+                        para pagkwentuhan mo, may balikat kang masasandalan sa lahat ng oras na 
+                        naisin mo. Hindi kita iiwanan, magkasama tayong lalaban sa mundo, tulad ng
+                        pangako ko sa'iyo, pangako ko na hindi ko nais mapako. Hiling ko sa kaarawan mo,
+                        na balang araw aayon sayo ang mundo, kaunting tiis lang yan malalampasan mo din 
+                        lahat ng iyan. Susuportahan kita, Tulad ng pag-suporta mo saakin. Lagi din natin
+                        tandaan kung ano yung goal natin sa buhay, sabay lang tayo sa agos ng tadhana.
+                        Maraming salamat sa lahat, Gusto kita at the same time, Mahal kita sobra. Enjoy 
+                        your day Jessie! Masaya akong maging masaya ka. I love you, boss mahal.🤟
                     </center></justify></p>
                       
                     <div> 
