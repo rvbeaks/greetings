@@ -117,8 +117,10 @@ export default function Home() {
                       I’m sure there are many, many iconic poems out there that
                       I’ve missed—so feel free to extend this list in the HAPPY BIRTHDAY SAYO JESSIE MAHAL NA MAHAL KITA
                     </p>
-
+                      
+                    <div> 
                     <p> - VINCENT</p>
+                    </div>
                   </motion.p>
                   <motion.p
                     initial={{ opacity: 0, x: '-100vw' }}
