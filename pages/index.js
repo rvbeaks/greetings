@@ -94,7 +94,7 @@ export default function Home() {
                     animate={{ opacity: 1, x: 0 }}
                     transition={{ duration: 1.2 }}
                   >
-                    <p><center><justify>
+                    <p>
                         Happy Happy Birthday sa taong pinaka sumusuporta saakin,
                         Oo, it's your day at ikaw yun Jessie! HAHAHAHA
                         I hope na hindi ka malungkot habang binabasa mo ito, 
@@ -113,7 +113,7 @@ export default function Home() {
                         tandaan kung ano yung goal natin sa buhay, sabay lang tayo sa agos ng tadhana.
                         Maraming salamat sa lahat, Gusto kita at the same time, Mahal kita sobra. Enjoy 
                         your day Jessie! Masaya akong maging masaya ka. I love you, boss mahal. 🤟💛
-                    </center></justify></p>
+                    </p>
                       
                     <div> 
                         <pre class="tab">                                   </pre>
