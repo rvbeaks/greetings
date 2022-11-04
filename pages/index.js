@@ -104,8 +104,8 @@ export default function Home() {
                       mang problema na dumarating, nandito ako lagi para pagkwentuhan mo, huwag mong 
                       sosolohin yang sama ng loob mo, narito ako lagi handang makinig sa mga rant mo sa 
                       buhay hehe. Sorry, wala akong gift sa’yo kaya ito na lang ginawa ko HAHAHAHA. 
-                      Ito rin pala yung secret ko sayo lately. Enjoy your day jessie! 
-                      I nandito lang ako lagi anytime para sayo. Happy happy birthday jessie! I love you so muchhh!  
+                      Ito rin pala yung secret ko sayo lately. Enjoy your day jessie! nandito lang ako lagi 
+                      anytime para sayo. Happy happy birthday jessie! I love you so muchhh!  
                     </p>
                       
                     <div> 
