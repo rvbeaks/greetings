@@ -94,19 +94,26 @@ export default function Home() {
                     animate={{ opacity: 1, x: 0 }}
                     transition={{ duration: 1.2 }}
                   >
-                    <p>
-                      Hello, it’s your day jessie! I hope na okay ka lang habang binabasa mo ito, 
-                      I hope na hindi ka din malungkot kasi araw mo ngayon.  Wish ko para sayo na 
-                      soon magiging maayos din ang lahat, nagpapasalamat din ako kasi nakilala kita,
-                      napaka supportive mo sa’akin sa lahat ng bagay na meron ako, kaya susuportahan 
-                      din kita  sa lahat, huwag kang susuko ha? Lagi mong tandaan na mayroong sumusuporta 
-                      sa’yo sa mga gusto mo sa buhay, lagi mong tandaan na hindi ka nag-iisa. Marami 
-                      mang problema na dumarating, nandito ako lagi para pagkwentuhan mo, huwag mong 
-                      sosolohin yang sama ng loob mo, narito ako lagi handang makinig sa mga rant mo sa 
-                      buhay hehe. Sorry, wala akong gift sa’yo kaya ito na lang ginawa ko HAHAHAHA. 
-                      Ito rin pala yung secret ko sayo lately. Enjoy your day jessie! nandito lang ako lagi 
-                      anytime para sayo. Happy happy birthday jessie! I love you so muchhh boss mahal!🤟
-                    </p>
+                    <p><center><justify>
+Happy Happy Birthday sa taong pinaka sumusuporta saakin,
+Oo, it's your day at ikaw yun Jessie! HAHAHAHA
+I hope na hindi ka malungkot habang binabasa mo ito, 
+I hope na wala kang bagabag sa oras na ito.
+Una sa lahat Jessie, nagpapasalamat ako sa supportang binibigay
+mo sa'akin sa lahat ng oras na need ko ng kausap, nariyan ka palagi.
+Masama man takbo ng tadhana saatin, lagi mong tandaan na palaging may
+isang sumusuporta sayo sa lahat ng bagay na mayroon ka sa buhay mo.
+huwag kang mahihiya na magopen sa'akin, kahit gaano pa kagulo kwento mo
+handa akong unawain lahat ng yun para  sa'iyo. Tandaan mo lagi na narito ako 
+para pagkwentuhan mo, may balikat kang masasandalan sa lahat ng oras na 
+naisin mo. Hindi kita iiwanan, magkasama tayong lalaban sa mundo, tulad ng
+pangako ko sa'iyo, pangako ko na hindi ko nais mapako. Hiling ko sa kaarawan mo,
+na balang araw aayon sayo ang mundo, kaunting tiis lang yan malalampasan mo din 
+lahat ng iyan. Susuportahan kita, Tulad ng pag-suporta mo saakin. Lagi din natin
+tandaan kung ano yung goal natin sa buhay, sabay lang tayo sa agos ng tadhana.
+Maraming salamat sa lahat, Gusto kita at the same time, Mahal kita sobra. Enjoy 
+your day Jessie! Masaya akong maging masaya ka. I love you, boss mahal.🤟
+                    </center></justify></p>
                       
                     <div> 
                         <pre class="tab">                                   </pre>
