@@ -118,7 +118,7 @@ export default function Home() {
                       sa agos ng tadhana. Maraming salamat sa lahat, Gusto kita
                       at the same time, Mahal kita sobra. Enjoy your day Jessie!
                       Masaya akong maging masaya ka. I love you, boss mahal.
-                      🤟💛
+                      🤟💛 CUTE MO HEHE 
                     </p>
 
                     <div>
