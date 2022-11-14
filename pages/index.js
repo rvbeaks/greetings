@@ -87,7 +87,7 @@ export default function Home() {
                     transition={{ duration: 1 }}
                     className={styles.greetingTitle}
                   >
-                    HAPPY BIRTHDAY JESSIE! 💛
+                    <marquee>HAPPY BIRTHDAY JESSIE! 💛</marquee>
                   </motion.h1>
                   <motion.p
                     initial={{ opacity: 0, x: '-100vw' }}
